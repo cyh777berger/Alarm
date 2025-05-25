@@ -1,0 +1,305 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ledr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ledr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledg",
+					"strict" : false
+				},
+				{
+					"name" : "display[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display[7]",
+					"strict" : false
+				},
+				{
+					"name" : "display[8]",
+					"strict" : false
+				},
+				{
+					"name" : "display[9]",
+					"strict" : false
+				},
+				{
+					"name" : "display[10]",
+					"strict" : false
+				},
+				{
+					"name" : "display[11]",
+					"strict" : false
+				},
+				{
+					"name" : "display[12]",
+					"strict" : false
+				},
+				{
+					"name" : "display[13]",
+					"strict" : false
+				},
+				{
+					"name" : "display[14]",
+					"strict" : false
+				},
+				{
+					"name" : "display[15]",
+					"strict" : false
+				},
+				{
+					"name" : "display[16]",
+					"strict" : false
+				},
+				{
+					"name" : "display[17]",
+					"strict" : false
+				},
+				{
+					"name" : "display[18]",
+					"strict" : false
+				},
+				{
+					"name" : "display[19]",
+					"strict" : false
+				},
+				{
+					"name" : "display[20]",
+					"strict" : false
+				},
+				{
+					"name" : "display[21]",
+					"strict" : false
+				},
+				{
+					"name" : "display[22]",
+					"strict" : false
+				},
+				{
+					"name" : "display[23]",
+					"strict" : false
+				},
+				{
+					"name" : "display[24]",
+					"strict" : false
+				},
+				{
+					"name" : "display[25]",
+					"strict" : false
+				},
+				{
+					"name" : "display[26]",
+					"strict" : false
+				},
+				{
+					"name" : "display[27]",
+					"strict" : false
+				},
+				{
+					"name" : "display[28]",
+					"strict" : false
+				},
+				{
+					"name" : "display[29]",
+					"strict" : false
+				},
+				{
+					"name" : "display[30]",
+					"strict" : false
+				},
+				{
+					"name" : "display[31]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[14]",
+					"strict" : false
+				},
+				{
+					"name" : "display_2[15]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_RW",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_EN",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_RS",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LCD_DATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "pushbuttons2",
+					"strict" : false
+				},
+				{
+					"name" : "pushbuttons1",
+					"strict" : false
+				},
+				{
+					"name" : "sliders[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pushbuttons3",
+					"strict" : false
+				},
+				{
+					"name" : "sliders[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sliders[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sliders[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

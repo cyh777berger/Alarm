@@ -1,0 +1,9 @@
+14:00:01 **** Incremental Build of configuration Nios II for project Allarm ****
+make all 
+Info: Building D:/alarm/qsys/software/Allarm_bsp/
+D:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C D:/alarm/qsys/software/Allarm_bsp/
+[BSP build complete]
+[Allarm build complete]
+
+14:00:01 Build Finished (took 740ms)
+
